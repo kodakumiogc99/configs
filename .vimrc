@@ -293,7 +293,7 @@ nmap <M-s> <Plug>MarkdownPreviewStop
 nmap <C-p> <Plug>MarkdownPreviewToggle
 
 ""Vim markdown hightlight to fold like python style
-let g:vim_markdown_folding_sytle_pythonic = 1
+let g:vim_markdown_folding_disabled = 1
 ""To prevent foldtext from being set
 let g:vim_markdown_override_foldtext = 0
 ""Enable TOC window auto-fit
